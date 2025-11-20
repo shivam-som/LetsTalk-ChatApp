@@ -5,7 +5,7 @@ Features
 
     User Registration: New users can sign up to create an account.
     Real-Time Messaging: Send and receive messages instantly using WebSockets.
-    Responsive Design: The app works seamlessly across mobile, tablet, and desktop devices.
+    Responsive Design: App works seamlessly across mobile, tablet, and desktop devices.
     User-Friendly Interface: Simple and intuitive UI for easy communication.
     Message History: Chat history is stored, allowing users to see previous conversations.
 
