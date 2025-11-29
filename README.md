@@ -1,7 +1,7 @@
 LetsTalk - Chat Application
 
 LetsTalk is a full-stack real-time chat application where users can register, send and receive messages instantly, and engage in one-on-one conversations. Built with modern web technologies, this app is fully responsive and designed to provide a seamless user experience across all devices.
-Features:
+Features
 
     User Registration: New users can sign up to create an account.
     Real-Time Messaging: Send and receive messages instantly using WebSockets.
